@@ -1,1 +1,2 @@
 # djangominiproject
+lSDfjsdffsfsdf[s
